@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my problem-solving skills and building real-world projects
 - 🌱 I’m currently learning **DSA with C++**, **Modern Full Stack Development**, **Web3**, **Blockchain**, and **AI**
 - 👯 I’m looking to collaborate on beginner to intermediate **web development** and **open-source projects**
-- 🤔 I’m looking for help with mastering advanced DSA and scalable system design
 - 💬 Ask me about **C++**, **DSA**, **Frontend Basics**, and **Web Development**
 - 📫 How to reach me: *GitHub / LinkedIn (www.linkedin.com/in/kishan-nishad-161a73392)*
 - 😄 Pronouns: He/Him
