@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/1*aniyNTcHORbvDiLGUzJSsQ.gif)]
+![MasterHead](https://miro.medium.com/v2/1*aniyNTcHORbvDiLGUzJSsQ.gif)
 <h1 align="center">Hi 👋, I'm Kishan Nishad</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gauravsinghigc.in/storage/bg/gaurav-singhigc-author-gauravsinghigc.gif”>
