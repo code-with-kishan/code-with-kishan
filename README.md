@@ -1,7 +1,14 @@
 ![MasterHead](https://miro.medium.com/v2/1*aniyNTcHORbvDiLGUzJSsQ.gif)(https://www.linkedin.com/in/kishan-nishad-161a73392/)
 <h1 align="center">Hi 👋, I'm Kishan Nishad</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif”/>
+<img align="right" alt="Coding" width="400" src= "
+  <img 
+  alt="Coding"
+  width="400"
+  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"
+  style="float: right;"
+>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-kishan&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-kishan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-kishan" alt="code-with-kishan" /></a> </p>
