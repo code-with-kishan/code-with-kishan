@@ -84,6 +84,9 @@
 </p>
 
 
-
-
+<p align="center">
+  <b>🚀 Currently Building:</b> AI-powered best Projects which solves Real World Problems 
+  <br/>
+  <sub>Focused on clean UI, performance, and real-world impact</sub>
+</p>
 
