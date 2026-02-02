@@ -62,16 +62,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-with-kishan&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-with-kishan&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-with-kishan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-with-kishan&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-with-kishan&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-with-kishan&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-with-kishan&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-kishan" />
-</p>
+
 
 <!-- Animated Footer -->
 <p align="center">
