@@ -63,9 +63,7 @@ _ ⚜️ My Portfolio website/Resume: **https://kishan-portfolio-steel.vercel.ap
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-with-kishan&theme=tokyonight" />
-</p>
+
 
 
 <p align="center">
