@@ -12,25 +12,28 @@
 </p>
 <img align="right" alt="Coding" width="450" src= "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
 
-- 🔭 I’m currently working on **enhancing my problem-solving skills and building real-world projects**
+* 🔭 I’m currently working on **building real-world AI-driven products** and improving my **problem-solving skills (DSA in C++)**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (C++)**, **Modern Full-Stack Development**, **Web3**, **Blockchain**, and **Artificial Intelligence**
+* 🌱 I’m currently learning **Artificial Intelligence (LLMs, LangChain, multi-agent systems)**, **Modern Full-Stack Development (Next.js, TypeScript)**, **Web3**, and **System Design**
 
-- 👯 I’m looking to collaborate on **beginner to intermediate web development** and **open-source projects**
+* 👯 I’m looking to collaborate on **AI-powered applications**, **full-stack products**, and **impactful open-source projects**
 
-- 🤝 I’m seeking help and mentorship in **coding problems, DSA, and real-world project development**
+* 🤝 I’m seeking mentorship in **advanced DSA**, **scalable system design**, and **production-level AI systems**
 
-- 👨‍💻 All of my projects are available on **my GitHub profile** (more coming soon 🚀)
+* 👨‍💻 I have built projects like **AI Money Mentor (AI-powered financial advisor)**, **Suvidha Kiosk (voice-enabled public service system)**, and **AI Study Buddy** — focused on solving real-world problems and many more...
 
-- 😄 Pronouns: **He/Him**
+* 🏆 **Achievements:** Google Code Vipassana Season 14 (**Global Rank 1**), Season 13 (**Rank 4**), **IBM AI Intern**, **Harvard CS50x**, **ISRO Certified**
 
-- 💬 Ask me about **React, Redux, TypeScript, DBMS, SQL, Vercel, Next.js 16, MERN Stack, Tailwind CSS, Bootstrap 5, Prisma, Socket.IO, AWS, System Design, Web3, and Flutter**
+* 😄 Pronouns: **He/Him**
 
-- 📫 How to reach me: **knishad0004@gmail.com**
+* 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, **PostgreSQL**, **Prisma**, **GSAP**, **Socket.IO**, **AWS**, **Vercel**, **AI integrations**, **LangChain**, and **System Design**
 
-_ ⚜️ My Portfolio website/Resume: **https://kishan-portfolio-steel.vercel.app/**
+* 📫 How to reach me: **[knishad0004@gmail.com](mailto:knishad0004@gmail.com)**
 
-- ⚡ Fun fact **I love turning complex problems into simple, user-friendly solutions 🚀**
+* ⚜️ Portfolio: **https://kishan-portfolio-steel.vercel.app/**
+
+* ⚡ Fun fact: **I focus on building real-world, scalable products rather than just collecting certificates 🚀**
+
 
 
 <h3 align="left">Connect with me:</h3>
